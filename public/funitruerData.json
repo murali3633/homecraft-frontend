@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa Set",
+    "category": "Living Room",
+    "price": 34999,
+    "material": "Fabric & Wood",
+    "dimensions": "200cm x 90cm x 85cm",
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "A modern fabric sofa set with a sturdy wooden frame, perfect for comfort and style."
+  },
+  {
+    "id": 2,
+    "name": "Wooden Dining Table",
+    "category": "Dining Room",
+    "price": 27999,
+    "material": "Solid Sheesham Wood",
+    "dimensions": "180cm x 90cm x 75cm",
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1556911220-bff31c812d0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Elegant Sheesham wood dining table for 6 people, designed for durability and aesthetics."
+  },
+  {
+    "id": 3,
+    "name": "Office Chair",
+    "category": "Office",
+    "price": 8499,
+    "material": "Mesh & Metal",
+    "dimensions": "65cm x 65cm x 120cm",
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Ergonomic office chair with breathable mesh and adjustable height."
+  },
+  {
+    "id": 4,
+    "name": "King Size Bed",
+    "category": "Bedroom",
+    "price": 42499,
+    "material": "Engineered Wood",
+    "dimensions": "210cm x 190cm x 110cm",
+    "stock": 6,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Spacious king-size bed with a durable wooden frame and modern headboard design."
+  },
+  {
+    "id": 5,
+    "name": "Bookshelf",
+    "category": "Study",
+    "price": 9999,
+    "material": "Plywood & Veneer",
+    "dimensions": "120cm x 35cm x 180cm",
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1601871925712-2aeb263cbe2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "A stylish wooden bookshelf with multiple compartments for books and decor items."
+  },
+  {
+    "id": 6,
+    "name": "Coffee Table",
+    "category": "Living Room",
+    "price": 12499,
+    "material": "Tempered Glass & Metal",
+    "dimensions": "100cm x 60cm x 45cm",
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1555043722-452d1425a01a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Modern glass top coffee table with metal legs, perfect for contemporary living rooms."
+  },
+  {
+    "id": 7,
+    "name": "Wardrobe",
+    "category": "Bedroom",
+    "price": 31999,
+    "material": "Engineered Wood with Lamination",
+    "dimensions": "180cm x 60cm x 220cm",
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1584622650111-993f4267e0aa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Spacious wardrobe with multiple compartments and hanging space for all your storage needs."
+  },
+  {
+    "id": 8,
+    "name": "Study Table",
+    "category": "Study",
+    "price": 11499,
+    "material": "Engineered Wood & Metal",
+    "dimensions": "120cm x 60cm x 75cm",
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1598300052283-43e4dfc3bcc5?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Ergonomic study table with ample workspace and storage compartments."
+  },
+  {
+    "id": 9,
+    "name": "TV Cabinet",
+    "category": "Living Room",
+    "price": 18999,
+    "material": "MDF with Wooden Veneer",
+    "dimensions": "180cm x 45cm x 50cm",
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1600494603989-9650cf6ddd3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Modern TV cabinet with multiple storage shelves and cable management."
+  },
+  {
+    "id": 10,
+    "name": "Recliner Chair",
+    "category": "Living Room",
+    "price": 25000,
+    "material": "Leather & Steel",
+    "dimensions": "95cm x 100cm x 110cm",
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1592078615290-033ee584e267?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Comfortable leather recliner chair with adjustable reclining positions."
+  },
+  {
+    "id": 11,
+    "name": "Dining Chair",
+    "category": "Dining Room",
+    "price": 4499,
+    "material": "Sheesham Wood & Fabric",
+    "dimensions": "45cm x 50cm x 90cm",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1505692952047-1a78307da8f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Comfortable dining chair with wooden frame and padded fabric seat."
+  },
+  {
+    "id": 12,
+    "name": "Side Table",
+    "category": "Living Room",
+    "price": 8000,
+    "material": "Wood & Veneer",
+    "dimensions": "50cm x 50cm x 55cm",
+    "stock": 22,
+    "image": "https://images.unsplash.com/photo-1564429090690-a244393e0ec8?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Elegant wooden side table with minimalistic design, perfect for any corner."
+  },
+  {
+    "id": 13,
+    "name": "Dressing Table",
+    "category": "Bedroom",
+    "price": 21999,
+    "material": "MDF with Mirror & Soft-Close Drawers",
+    "dimensions": "120cm x 45cm x 75cm",
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Elegant dressing table with large mirror and multiple storage drawers."
+  },
+  {
+    "id": 14,
+    "name": "Shoe Rack",
+    "category": "Entrance",
+    "price": 3999,
+    "material": "Engineered Wood & Metal",
+    "dimensions": "80cm x 30cm x 100cm",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1600585152047-3c1a0e1d3f1a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Space-saving shoe rack with multiple tiers for organized storage."
+  },
+  {
+    "id": 15,
+    "name": "Outdoor Patio Set",
+    "category": "Outdoor",
+    "price": 24999,
+    "material": "All-Weather Wicker & Tempered Glass",
+    "dimensions": "Table: 100cm x 100cm, Chairs: 45cm x 45cm x 85cm",
+    "stock": 4,
+    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Stylish outdoor patio set with weather-resistant wicker and glass top table."
+  },
+  {
+    "id": 16,
+    "name": "Baby Crib",
+    "category": "Kids",
+    "price": 18000,
+    "material": "Solid Wood",
+    "dimensions": "130cm x 70cm x 100cm",
+    "stock": 13,
+    "image": "https://images.unsplash.com/photo-1616627431993-4e9c0e9c2f0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&fm=webp",
+    "description": "Safe and comfortable wooden baby crib with protective railings."
+  }
+]
