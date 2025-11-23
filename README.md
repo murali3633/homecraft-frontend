@@ -4,11 +4,7 @@ A modern **frontend web application** built with **React.js**, **Vite**, **Tailw
 
 ---
 
-## 🚀 Live Demo
 
-👉 [View Live Demo](https://home-decoration-furniture.vercel.app)
-
----
 
 ## ✨ Features
 
@@ -93,11 +89,7 @@ The production build will be in the `dist/` folder, ready to deploy.
 
 ---
 
-## 📸 Screenshots
 
- <img src="https://ik.imagekit.io/yqnbhdlo4/Img/home?updatedAt=1759770625524" alt="" />
-
----
 
 ## 🔮 Future Improvements
 
@@ -118,11 +110,3 @@ The production build will be in the `dist/` folder, ready to deploy.
 
 ---
 
-## 📬 Contact
-
-* GitHub: [@amdadislam01](https://github.com/amdadislam01)
-* Email: *amdad20063@gmail.com*
-
----
-
-⚡ Built with passion by **MD. Amdad Islam** ⚡
